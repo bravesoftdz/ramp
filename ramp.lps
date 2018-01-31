@@ -8,17 +8,17 @@
       <Unit0>
         <Filename Value="ramp.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
-        <CursorPos Y="17"/>
+        <CursorPos X="11" Y="5"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
         <Filename Value="modules\application.pas"/>
         <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="84"/>
-        <CursorPos Y="93"/>
+        <TopLine Value="27"/>
+        <CursorPos X="17" Y="45"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit1>
@@ -26,7 +26,8 @@
         <Filename Value="modules\configuration.pas"/>
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="2"/>
-        <CursorPos X="12" Y="46"/>
+        <TopLine Value="47"/>
+        <CursorPos X="10" Y="35"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit2>
